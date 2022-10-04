@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41954ea3.chunk.css",
+    "main.js": "/static/js/main.21024ab8.chunk.js",
+    "main.js.map": "/static/js/main.21024ab8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.23260032.js",
+    "runtime-main.js.map": "/static/js/runtime-main.23260032.js.map",
+    "static/js/2.1e46fad9.chunk.js": "/static/js/2.1e46fad9.chunk.js",
+    "static/js/2.1e46fad9.chunk.js.map": "/static/js/2.1e46fad9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.41954ea3.chunk.css.map": "/static/css/main.41954ea3.chunk.css.map",
+    "static/js/2.1e46fad9.chunk.js.LICENSE.txt": "/static/js/2.1e46fad9.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/static/media/charlevoixpro-thin-webfont.6c991a34.woff",
+    "static/media/icon-vegano.1fe417b3.svg": "/static/media/icon-vegano.1fe417b3.svg",
+    "static/media/vegano.ce89f6ba.svg": "/static/media/vegano.ce89f6ba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23260032.js",
+    "static/js/2.1e46fad9.chunk.js",
+    "static/css/main.41954ea3.chunk.css",
+    "static/js/main.21024ab8.chunk.js"
+  ]
+}
