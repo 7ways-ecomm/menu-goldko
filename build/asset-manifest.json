@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.41954ea3.chunk.css",
-    "main.js": "/static/js/main.21024ab8.chunk.js",
-    "main.js.map": "/static/js/main.21024ab8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.23260032.js",
-    "runtime-main.js.map": "/static/js/runtime-main.23260032.js.map",
-    "static/js/2.1e46fad9.chunk.js": "/static/js/2.1e46fad9.chunk.js",
-    "static/js/2.1e46fad9.chunk.js.map": "/static/js/2.1e46fad9.chunk.js.map",
+    "main.css": "/static/css/main.73c01f6a.css",
+    "main.js": "/static/js/main.113031a1.js",
+    "static/media/charlevoixpro-black-webfont.woff": "/static/media/charlevoixpro-black-webfont.415d7c8d15fdc0e550d3.woff",
+    "static/media/charlevoixpro-extrabold-webfont.woff": "/static/media/charlevoixpro-extrabold-webfont.f858ff01e55602e44fff.woff",
+    "static/media/charlevoixpro-light-webfont.woff": "/static/media/charlevoixpro-light-webfont.e996cd4a7bca0583ec28.woff",
+    "static/media/charlevoixpro-medium-webfont.woff": "/static/media/charlevoixpro-medium-webfont.7038484c5e21acf1a9d0.woff",
+    "static/media/charlevoixpro-regular-webfont.woff": "/static/media/charlevoixpro-regular-webfont.02a8b9a2d43794870e13.woff",
+    "static/media/charlevoixpro-bold-webfont.woff": "/static/media/charlevoixpro-bold-webfont.d75ff17ebf927e5e6c14.woff",
+    "static/media/charlevoixpro-thin-webfont.woff": "/static/media/charlevoixpro-thin-webfont.6c991a340f116c46036c.woff",
+    "static/media/charlevoixpro-black-webfont.woff2": "/static/media/charlevoixpro-black-webfont.28ce24d6d66f1947999e.woff2",
+    "static/media/charlevoixpro-extrabold-webfont.woff2": "/static/media/charlevoixpro-extrabold-webfont.0fcd9bcfccc99c66b968.woff2",
+    "static/media/charlevoixpro-light-webfont.woff2": "/static/media/charlevoixpro-light-webfont.3283389067ea25a0d27d.woff2",
+    "static/media/charlevoixpro-medium-webfont.woff2": "/static/media/charlevoixpro-medium-webfont.9e434908bcac8b4ea414.woff2",
+    "static/media/charlevoixpro-regular-webfont.woff2": "/static/media/charlevoixpro-regular-webfont.82b643b14b8250d934ee.woff2",
+    "static/media/charlevoixpro-thin-webfont.woff2": "/static/media/charlevoixpro-thin-webfont.074d5f8f3794711f339a.woff2",
+    "static/media/charlevoixpro-bold-webfont.woff2": "/static/media/charlevoixpro-bold-webfont.6701ec0c4e5efbf74e51.woff2",
+    "static/media/vegano.svg": "/static/media/vegano.ce89f6ba28bd4021031cf6393f203f4b.svg",
+    "static/media/icon-vegano.svg": "/static/media/icon-vegano.1fe417b3db940d8666c104d51a4d65ac.svg",
     "index.html": "/index.html",
-    "static/css/main.41954ea3.chunk.css.map": "/static/css/main.41954ea3.chunk.css.map",
-    "static/js/2.1e46fad9.chunk.js.LICENSE.txt": "/static/js/2.1e46fad9.chunk.js.LICENSE.txt",
-    "static/media/stylesheet.css": "/static/media/charlevoixpro-thin-webfont.6c991a34.woff",
-    "static/media/icon-vegano.1fe417b3.svg": "/static/media/icon-vegano.1fe417b3.svg",
-    "static/media/vegano.ce89f6ba.svg": "/static/media/vegano.ce89f6ba.svg"
+    "main.73c01f6a.css.map": "/static/css/main.73c01f6a.css.map",
+    "main.113031a1.js.map": "/static/js/main.113031a1.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.23260032.js",
-    "static/js/2.1e46fad9.chunk.js",
-    "static/css/main.41954ea3.chunk.css",
-    "static/js/main.21024ab8.chunk.js"
+    "static/css/main.73c01f6a.css",
+    "static/js/main.113031a1.js"
   ]
 }

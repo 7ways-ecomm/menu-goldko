@@ -1,0 +1,260 @@
+[
+    {
+      "id": 111,
+      "count": 1,
+      "description": "",
+      "link": "https://goldko1.websiteseguro.com/blog/categoria/agua-sem-gas/",
+      "name": "Água sem Gás",
+      "slug": "agua-sem-gas",
+      "taxonomy": "categoria",
+      "meta": [],
+      "acf": {
+        "capa": "https://goldko1.websiteseguro.com/blog/wp-content/uploads/2021/04/a-glass-of-clean-water-on-a-concrete-background-5XZPRT8.jpg",
+        "ordenacao": "5"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/categoria/111"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/categoria"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/taxonomies/categoria"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/cardapio?categoria=111"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 116,
+      "count": 7,
+      "description": "",
+      "link": "https://goldko1.websiteseguro.com/blog/categoria/vegano/",
+      "name": "Bebidas Veganas",
+      "slug": "vegano",
+      "taxonomy": "categoria",
+      "meta": [],
+      "acf": {
+        "capa": "https://goldko1.websiteseguro.com/blog/wp-content/uploads/2021/04/GK-8.jpg",
+        "ordenacao": "4"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/categoria/116"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/categoria"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/taxonomies/categoria"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/cardapio?categoria=116"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 114,
+      "count": 8,
+      "description": "",
+      "link": "https://goldko1.websiteseguro.com/blog/categoria/cafes/",
+      "name": "Cafés",
+      "slug": "cafes",
+      "taxonomy": "categoria",
+      "meta": [],
+      "acf": {
+        "capa": "https://goldko1.websiteseguro.com/blog/wp-content/uploads/2021/04/Layer-2-1.jpg",
+        "ordenacao": "1"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/categoria/114"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/categoria"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/taxonomies/categoria"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/cardapio?categoria=114"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 110,
+      "count": 3,
+      "description": "",
+      "link": "https://goldko1.websiteseguro.com/blog/categoria/cafes-gelados/",
+      "name": "Cafés Gelados",
+      "slug": "cafes-gelados",
+      "taxonomy": "categoria",
+      "meta": [],
+      "acf": {
+        "capa": "https://goldko1.websiteseguro.com/blog/wp-content/uploads/2021/04/GK-4.jpg",
+        "ordenacao": "3"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/categoria/110"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/categoria"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/taxonomies/categoria"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/cardapio?categoria=110"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 109,
+      "count": 1,
+      "description": "",
+      "link": "https://goldko1.websiteseguro.com/blog/categoria/chocolate/",
+      "name": "Chocolate",
+      "slug": "chocolate",
+      "taxonomy": "categoria",
+      "meta": [],
+      "acf": {
+        "capa": "https://goldko1.websiteseguro.com/blog/wp-content/uploads/2021/04/GK-2.jpg",
+        "ordenacao": "2"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/categoria/109"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/categoria"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/taxonomies/categoria"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/cardapio?categoria=109"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 112,
+      "count": 2,
+      "description": "",
+      "link": "https://goldko1.websiteseguro.com/blog/categoria/bolos/",
+      "name": "Comidinhas",
+      "slug": "bolos",
+      "taxonomy": "categoria",
+      "meta": [],
+      "acf": {
+        "capa": "https://goldko1.websiteseguro.com/blog/wp-content/uploads/2021/04/GK-16.jpg",
+        "ordenacao": "6"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/categoria/112"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/categoria"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/taxonomies/categoria"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://goldko1.websiteseguro.com/blog/wp-json/wp/v2/cardapio?categoria=112"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  ]
